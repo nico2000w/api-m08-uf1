@@ -5,234 +5,274 @@
 			"titulo": "El cuco de cristal",
 			"autor": "Javier Castillo",
 			"año_publicacion": 2023,
-			"precio": 19.85
+			"precio": 19.85,
+			"valoracion": 3
 		},
 		{
 			"id":2,
 			"titulo": "Drupal par bibliotecas y archivos",
 			"autor": "Jesús Tramullas",
 			"año_publicacion": 2010,
-			"precio": 15.85
+			"precio": 15.85,
+			"valoracion": 3
 		},
 		{
 			"id":3,
 			"titulo": "La ideología anarquista",
 			"autor": "Angel J. Cappelletti",
 			"año_publicacion": 2010,
-			"precio": 31.50
+			"precio": 31.50,
+			"valoracion": 4
 		},
 		{
 			"id":4,
 			"titulo": "The future of the internet and how to stop it",
 			"autor": "Jonathan Zittrain",
 			"año_publicacion": 2008,
-			"precio": 12.65
+			"precio": 12.65,
+			"valoracion": 2
 		},
 		{
 			"id":5,
 			"titulo": "La vigilia perpetua",
 			"autor": "Victor Ruiz",
 			"año_publicacion": 2008,
-			"precio": 12.50
+			"precio": 12.50,
+			"valoracion": 3
 		},
 		{
 			"id":6,
 			"titulo": "Las flores del mal",
 			"autor": "Vicente Zito Lema",
 			"año_publicacion": 2010,
-			"precio": 25.32
+			"precio": 25.32,
+			"valoracion": 2
 		},
 		{
 			"id":7,
 			"titulo": "La visión salvaje",
 			"autor": "-",
 			"año_publicacion": 2012,
-			"precio": 0.00
+			"precio": 0.00,
+			"valoracion": 4
 		},
 		{
 			"id":8,
 			"titulo": "Reverberar",
 			"autor": "Tornero Pérez",
 			"año_publicacion": 2010,
-			"precio": 15.00
+			"precio": 15.00,
+			"valoracion": 1
 		},
 		{
 			"id":9,
 			"titulo": "La sociedad de la ignorancia y otros ensayos",
 			"autor": "Antoni Brey",
 			"año_publicacion": 2009,
-			"precio": 10.50
+			"precio": 10.50,
+			"valoracion": 2
 		},
 		{
 			"id":10,
 			"titulo": "Movimiento sociales y cooperación de ideas para el debate",
 			"autor": "Janaina Stronzake",
 			"año_publicacion": 2012,
-			"precio": 14.75
+			"precio": 14.75,
+			"valoracion": 2
 		},
 		{
 			"id":11,
 			"titulo": "Las aventuras de Sherlock Holmes",
 			"autor": "Arthur Conan Doyle",
 			"año_publicacion": 2012,
-			"precio": 5.00
+			"precio": 5.00,
+			"valoracion": 5
 		},
 		{
 			"id":12,
 			"titulo": "Los invisibles",
 			"autor": "Nanni Balestrinni",
 			"año_publicacion": 2007,
-			"precio": 10.50
+			"precio": 10.50,
+			"valoracion": 2
 		},
 		{
 			"id":13,
 			"titulo": "Las alas de Leo",
 			"autor": "Pedro Prieto Martín",
 			"año_publicacion": 2010,
-			"precio": 14.80
+			"precio": 14.80,
+			"valoracion": 3
 		},
 		{
 			"id":14,
 			"titulo": "Introducción al software libre",
 			"autor": "Jesús González Barahona",
 			"año_publicacion": 2003,
-			"precio": 8.50
+			"precio": 8.50,
+			"valoracion": 4
 		},
 		{
 			"id":15,
 			"titulo": "La sociedad contra el Estado",
 			"autor": "Clastres Pierre",
 			"año_publicacion": 2010,
-			"precio": 30.00
+			"precio": 30.00,
+			"valoracion": 1
 		}
 	],
 	"peliculas": [
 		{
 			"id": 1,
 			"titulo": "El padrino",
-			"año": 1972
+			"año": 1972,
+			"valoracion": 1
 		},
 		{
 			"id": 2,
 			"titulo": "Raiders of the Lost Ark",
-			"año": 1981
+			"año": 1981,
+			"valoracion": 3
 		},
 		{
 			"id": 3,
 			"titulo": "Tiburón",
-			"año": 1975
+			"año": 1975,
+			"valoracion": 4
 		},
 		{
 			"id": 4,
 			"titulo": "Fight Club",
-			"año": 1999
+			"año": 1999,
+			"valoracion": 4
 		},
 		{
 			"id": 5,
 			"titulo": "Cantando bajo la lluvia",
-			"año": 1952
+			"año": 1952,
+			"valoracion": 3 
 		},
 		{
 			"id": 6,
 			"titulo": "Pulp Fiction",
-			"año": 1994
+			"año": 1994,
+			"valoracion": 5
 		},
 		{
 			"id": 7,
 			"titulo": "Taxi Driver",
-			"año": 1976
+			"año": 1976,
+			"valoracion": 4
 		},
 		{
 			"id": 8,
 			"titulo": "Chinatown",
-			"año": 1974
+			"año": 1974,
+			"valoracion": 4
 		},
 		{
 			"id": 9,
 			"titulo": "Casablanca",
-			"año": 1942
+			"año": 1942,
+			"valoracion": 3
 		},
 		{
 			"id": 10,
 			"titulo": "Citizen Kane",
-			"año": 1941
+			"año": 1941,
+			"valoracion": 5
 		},
 		{
 			"id": 11,
 			"titulo": "Lo que el viento se llevó",
-			"año": 1939
+			"año": 1939,
+			"valoracion": 2
 		},
 		{
 			"id": 12,
 			"titulo": "El señor de los anillos: El retorno del rey",
-			"año": 2003
+			"año": 2003,
+			"valoracion": 2
 		},
 		{
 			"id": 13,
 			"titulo": "Terminator 2: El juicio final",
-			"año": 1991
+			"año": 1991,
+			"valoracion": 4
 		},
 		{
 			"id": 14,
 			"titulo": "La naranja mecánica",
-			"año": 1971
+			"año": 1971,
+			"valoracion": 2
 		},
 		{
 			"id": 15,
 			"titulo": "The matrix",
-			"año": 1999
+			"año": 1999,
+			"valoracion": 1
 		}
 	],
 	"restaurantes": [
 		{
 			"id": 1,
 			"nombre": "El  Bulli",
-			"año": 1964
+			"año": 1964,
+			"valoracion": 1
 		},
 		{
 			"id": 2,
 			"nombre": "Steirerek",
-			"año": 1970
+			"año": 1970,
+			"valoracion": 3
 		},
 		{
 			"id": 3,
 			"nombre": "Tim Raue",
-			"año": 1974
+			"año": 1974,
+			"valoracion": 4
 		},
 		{
 			"id": 4,
 			"nombre": "Vendöme",
-			"año": 1985
+			"año": 1985,
+			"valoracion": 3
 		},
 		{
 			"id": 5,
 			"nombre": "Celler de can roca",
-			"año": 1986
+			"año": 1986,
+			"valoracion": 5
 		},
 		{
 			"id": 6,
 			"nombre": "Hof Van Clieve",
-			"año": 1988
+			"año": 1988,
+			"valoracion": 3 
 		},
 		{
 			"id": 7,
 			"nombre": "Asador Etxebarri",
-			"año": 1990
+			"año": 1990,
+			"valoracion": 2
 		},
 		{
 			"id": 8,
 			"nombre": "Maido",
-			"año": 1991
+			"año": 1991,
+			"valoracion": 1
 		},
 		{
 			"id": 9,
 			"nombre": "Del Librije",
-			"año": 1992
+			"año": 1992,
+			"valoracion": 3
 		},
 		{
 			"id": 10,
 			"nombre": "Astrid & Gaston",
-			"año": 1994
+			"año": 1994,
+			"valoracion": 4
 		}
 	],
 	"coches": [
@@ -240,91 +280,106 @@
 			"id": 1,
 			"marca": "Audi",
 			"modelo": "Quattro",
-			"año": 1982
+			"año": 1982,
+			"valoracion": 5
 		},
 		{
 			"id": 2,
 			"marca": "BMW",
 			"modelo": "507",
-			"año": 1953
+			"año": 1953,
+			"valoracion": 4
 		},
 		{
 			"id": 3,
 			"marca": "Chevrolet",
 			"modelo": "Corvette",
-			"año": 1958
+			"año": 1958,
+			"valoracion": 3
 		},
 		{
 			"id": 4,
 			"marca": "Citröen",
 			"modelo": "DS 19",
-			"año": 1955
+			"año": 1955,
+			"valoracion": 2
 		},
 		{
 			"id": 5,
 			"marca": "Ferrari",
 			"modelo": "F-40",
-			"año": 1987
+			"año": 1987,
+			"valoracion": 4
 		},
 		{
 			"id": 6,
 			"marca": "Fiat",
 			"modelo": "500",
-			"año": 1957
+			"año": 1957,
+			"valoracion": 3
 		},
 		{
 			"id": 7,
 			"marca": "Ford",
 			"modelo": "T",
-			"año": 1913
+			"año": 1913,
+			"valoracion": 2
 		},
 		{
 			"id": 8,
 			"marca": "Isetta",
 			"modelo": "-",
-			"año": 1955
+			"año": 1955,
+			"valoracion": 1
 		},
 		{
 			"id": 9,
 			"marca": "Jaguar",
 			"modelo": "E-Type",
-			"año": 1961
+			"año": 1961,
+			"valoracion": 4
 		},
 		{
 			"id": 10,
 			"marca": "Jeep",
 			"modelo": "Wrangler",
-			"año": 1987
+			"año": 1987,
+			"valoracion": 5
 		},
 		{
 			"id": 11,
 			"marca": "Mercedes",
 			"modelo": "300 SL Gullwing",
-			"año": 1957
+			"año": 1957,
+			"valoracion": 2
 		},
 		{
 			"id": 12,
 			"marca": "Volkswagen",
 			"modelo": "Golf",
-			"año": 1974
+			"año": 1974,
+			"valoracion": 3
 		},
 		{
 			"id": 13,
 			"marca": "Mini",
 			"modelo": "-",
-			"año": 1959
+			"año": 1959,
+			"valoracion": 1
 		},
 		{
 			"id": 14,
 			"marca": "Lamborghini",
 			"modelo": "Miura",
-			"año": 1965
+			"año": 1965,
+			"valoracion": 3
 		},
 		{
 			"id": 15,
 			"marca": "Peugeot",
 			"modelo": "205 GTi",
-			"año": 1983
+			"año": 1983,
+			"valoracion": 4
 		}
 	],
 	"canciones": [
@@ -332,61 +387,71 @@
 			"id": 1,
 			"titulo": "A change is gonna come",
 			"artista": "Sam Cooke",
-			"año": 1964
+			"año": 1964,
+			"valoracion": 5
 		},
 		{
 			"id": 2,
 			"titulo": "Waterlo sunset",
 			"artista": "The kinks",
-			"año": 1967
+			"año": 1967,
+			"valoracion": 3
 		},
 		{
 			"id": 3,
 			"titulo": "Like a Rolling Stone",
 			"artista": "Bob Dylan",
-			"año": 1965
+			"año": 1965,
+			"valoracion": 2
 		},
 		{
 			"id": 4,
 			"titulo": "I can't get no satisfaction",
 			"artista": "The Rolling Stones",
-			"año": 1965
+			"año": 1965,
+			"valoracion": 2
 		},
 		{
 			"id": 5,
 			"titulo": "Hey jude",
 			"artista": "The Beatles",
-			"año": 1968
+			"año": 1968,
+			"valoracion": 3
 		},
 		{
 			"id": 6,
 			"titulo": "Smells Like Teen Spirit",
 			"artista": "Nirvana",
-			"año": 1991
+			"año": 1991,
+			"valoracion": 4
 		},
 		{
 			"id": 7,
 			"titulo": "Johnny B. Goode",
 			"artista": "Chuck Berry",
-			"año": 1958
+			"año": 1958,
+			"valoracion": 4
 		},
 		{
 			"id": 8,
 			"titulo": "Imagine",
 			"artista": "John lenon",
-			"año": 1971
+			"año": 1971,
+			"valoracion": 1
 		},
 		{
 			"id": 9,
 			"titulo": "Respect",
 			"artista": "Aretha Franklin",
-			"año": 1967
+			"año": 1967,
+			"valoracion": 5
 		},
 		{
 			"id": 10,
 			"titulo": "What'd i say",
 			"artista": "Ray Charles",
-			"año": 1959
+			"año": 1959,
+			"valoracion": 4
 		}
 	]
 }
